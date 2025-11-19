@@ -1,0 +1,7 @@
+This project Physics_Helper is a simulation for:
+    1- projectile motion.
+    2- collosion balls.
+    3- graph fetching.
+
+you can run it from releases dist PhysicsLab then run physicsLab.exe
+the whole folder must be install because of requirements.
